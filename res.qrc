@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>C:/Users/My PC/Downloads/super_mario_bros.mp3</file>
+    </qresource>
+</RCC>
